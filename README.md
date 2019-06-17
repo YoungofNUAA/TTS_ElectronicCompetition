@@ -7,3 +7,6 @@ Android设计流程框图
 
 ![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP1.png)
 
+Android界面展示
+
+
