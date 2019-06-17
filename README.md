@@ -9,4 +9,7 @@ Android设计流程框图
 
 Android界面展示
 
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP_Person.jpg)
+
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP_TTS.jpg)
 
