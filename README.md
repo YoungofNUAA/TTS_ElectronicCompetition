@@ -13,3 +13,6 @@ Android界面展示
 
 ![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP_TTS.jpg)
 
+Windows 语音合成GUI
+
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/WinGUI.png)
