@@ -17,4 +17,4 @@ Android界面展示
 
 Windows 语音合成GUI
 
-![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/WinGUI.png)
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/电脑端界面.jpg)
