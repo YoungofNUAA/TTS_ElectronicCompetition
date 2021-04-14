@@ -9,9 +9,11 @@ Android设计流程框图
 
 Android界面展示
 
-![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP_Person.jpg)
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/手机APP1.jpg)
 
-![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP_TTS.jpg)
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/手机APP2.jpg)
+
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/手机APP3.jpg)
 
 Windows 语音合成GUI
 
