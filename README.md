@@ -5,7 +5,7 @@ Android开发得益于@ymNickole/EarWorld 本人也在学习java,以后有时间
 
 Android设计流程框图
 
-![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP1.png)
+![Image text](https://github.com/YoungofNUAA/TTS_ElectronicCompetition/blob/master/APP.png)
 
 Android界面展示
 
